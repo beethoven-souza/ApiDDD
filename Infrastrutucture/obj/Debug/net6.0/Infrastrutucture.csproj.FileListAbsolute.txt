@@ -1,0 +1,17 @@
+C:\Projetos\ApiDDD\ApiDDD\Infrastrutucture\bin\Debug\net6.0\Infrastrutucture.deps.json
+C:\Projetos\ApiDDD\ApiDDD\Infrastrutucture\bin\Debug\net6.0\Infrastrutucture.dll
+C:\Projetos\ApiDDD\ApiDDD\Infrastrutucture\bin\Debug\net6.0\Infrastrutucture.pdb
+C:\Projetos\ApiDDD\ApiDDD\Infrastrutucture\bin\Debug\net6.0\Domain.dll
+C:\Projetos\ApiDDD\ApiDDD\Infrastrutucture\bin\Debug\net6.0\Entities.dll
+C:\Projetos\ApiDDD\ApiDDD\Infrastrutucture\bin\Debug\net6.0\Domain.pdb
+C:\Projetos\ApiDDD\ApiDDD\Infrastrutucture\bin\Debug\net6.0\Entities.pdb
+C:\Projetos\ApiDDD\ApiDDD\Infrastrutucture\obj\Debug\net6.0\Infrastrutucture.csproj.AssemblyReference.cache
+C:\Projetos\ApiDDD\ApiDDD\Infrastrutucture\obj\Debug\net6.0\Infrastrutucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ApiDDD\ApiDDD\Infrastrutucture\obj\Debug\net6.0\Infrastrutucture.AssemblyInfoInputs.cache
+C:\Projetos\ApiDDD\ApiDDD\Infrastrutucture\obj\Debug\net6.0\Infrastrutucture.AssemblyInfo.cs
+C:\Projetos\ApiDDD\ApiDDD\Infrastrutucture\obj\Debug\net6.0\Infrastrutucture.csproj.CoreCompileInputs.cache
+C:\Projetos\ApiDDD\ApiDDD\Infrastrutucture\obj\Debug\net6.0\Infrastrutucture.csproj.CopyComplete
+C:\Projetos\ApiDDD\ApiDDD\Infrastrutucture\obj\Debug\net6.0\Infrastrutucture.dll
+C:\Projetos\ApiDDD\ApiDDD\Infrastrutucture\obj\Debug\net6.0\refint\Infrastrutucture.dll
+C:\Projetos\ApiDDD\ApiDDD\Infrastrutucture\obj\Debug\net6.0\Infrastrutucture.pdb
+C:\Projetos\ApiDDD\ApiDDD\Infrastrutucture\obj\Debug\net6.0\ref\Infrastrutucture.dll

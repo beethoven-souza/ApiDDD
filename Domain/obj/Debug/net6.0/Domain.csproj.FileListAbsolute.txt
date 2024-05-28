@@ -1,0 +1,15 @@
+C:\Projetos\ApiDDD\ApiDDD\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Projetos\ApiDDD\ApiDDD\Domain\bin\Debug\net6.0\Domain.dll
+C:\Projetos\ApiDDD\ApiDDD\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Projetos\ApiDDD\ApiDDD\Domain\bin\Debug\net6.0\Entities.dll
+C:\Projetos\ApiDDD\ApiDDD\Domain\bin\Debug\net6.0\Entities.pdb
+C:\Projetos\ApiDDD\ApiDDD\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Projetos\ApiDDD\ApiDDD\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ApiDDD\ApiDDD\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Projetos\ApiDDD\ApiDDD\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Projetos\ApiDDD\ApiDDD\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\ApiDDD\ApiDDD\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+C:\Projetos\ApiDDD\ApiDDD\Domain\obj\Debug\net6.0\Domain.dll
+C:\Projetos\ApiDDD\ApiDDD\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Projetos\ApiDDD\ApiDDD\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Projetos\ApiDDD\ApiDDD\Domain\obj\Debug\net6.0\ref\Domain.dll

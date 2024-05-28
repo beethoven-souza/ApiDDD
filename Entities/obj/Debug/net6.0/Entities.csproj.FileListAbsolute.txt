@@ -1,0 +1,12 @@
+C:\Projetos\ApiDDD\ApiDDD\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Projetos\ApiDDD\ApiDDD\Entities\bin\Debug\net6.0\Entities.dll
+C:\Projetos\ApiDDD\ApiDDD\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Projetos\ApiDDD\ApiDDD\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Projetos\ApiDDD\ApiDDD\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ApiDDD\ApiDDD\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Projetos\ApiDDD\ApiDDD\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Projetos\ApiDDD\ApiDDD\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Projetos\ApiDDD\ApiDDD\Entities\obj\Debug\net6.0\Entities.dll
+C:\Projetos\ApiDDD\ApiDDD\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Projetos\ApiDDD\ApiDDD\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Projetos\ApiDDD\ApiDDD\Entities\obj\Debug\net6.0\ref\Entities.dll
